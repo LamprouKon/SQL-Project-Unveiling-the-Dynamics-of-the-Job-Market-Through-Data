@@ -22,7 +22,8 @@ The objective of this analysis is to uncover **high-paying remote Data Analyst o
 ## 🎯 Objective
 Identify the top-paying remote Data Analyst positions with verified salary data.
 
-<img width="924" height="253" alt="image" src="https://github.com/user-attachments/assets/5cd14c23-2075-4c6f-ba86-846acfdf51a4" />
+<img width="922" height="250" alt="image" src="https://github.com/user-attachments/assets/ac069b5c-0b68-4eed-8c17-123cd0890b50" />
+
 
 
 ### 🔎 Key Insights
