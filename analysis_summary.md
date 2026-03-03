@@ -22,7 +22,8 @@ The objective of this analysis is to uncover **high-paying remote Data Analyst o
 ## 🎯 Objective
 Identify the top-paying remote Data Analyst positions with verified salary data.
 
-<img src="images/top_paying_remote_roles.png" width="900">
+<img width="924" height="253" alt="image" src="https://github.com/user-attachments/assets/5cd14c23-2075-4c6f-ba86-846acfdf51a4" />
+
 
 ### 🔎 Key Insights
 
@@ -40,7 +41,8 @@ This section highlights where Data Analysts can maximize compensation while work
 ## 🎯 Objective
 Extract required skills from the top 10 highest-paying remote roles.
 
-<img src="images/top_paying_roles_skills.png" width="900">
+<img width="903" height="356" alt="image" src="https://github.com/user-attachments/assets/7ca0c525-d722-4096-a5e6-99180f93b34c" />
+
 
 ### 🔎 Key Insights
 
@@ -58,7 +60,7 @@ This reveals the technical stack commonly associated with premium compensation.
 ## 🎯 Objective
 Determine which individual skills command the highest average salary.
 
-<img src="images/top_paying_skills.png" width="900">
+<img width="551" height="465" alt="image" src="https://github.com/user-attachments/assets/a725983d-4e34-4480-b1c3-490a040a32db" />
 
 ### 🔎 Key Insights
 
@@ -75,7 +77,8 @@ This suggests that advanced data engineering and ML-aligned skills elevate salar
 ## 🎯 Objective
 Identify skills that combine **high market demand** with **strong salary potential**.
 
-<img src="images/optimal_skills.png" width="900">
+<img width="799" height="465" alt="image" src="https://github.com/user-attachments/assets/4e99409c-9da7-4fd6-ac33-d8edcb596b5e" />
+
 
 ### 🔎 Key Insights
 
@@ -86,18 +89,7 @@ Identify skills that combine **high market demand** with **strong salary potenti
 
 This section provides a practical roadmap for career prioritization.
 
----
-
-# 🧠 Strategic Conclusions
-
-### 💼 For Job Seekers
-- Master SQL and Python as foundational skills.
-- Expand into cloud, distributed computing, and ML tooling.
-- Remote opportunities can match or exceed on-site compensation.
-
-### 🏢 For Organizations
-- High compensation correlates with hybrid analytics + engineering skill sets.
-- Remote hiring broadens access to high-value talent.
+ Remote hiring broadens access to high-value talent.
 
 ---
 
@@ -105,19 +97,7 @@ This section provides a practical roadmap for career prioritization.
 
 - PostgreSQL
 - VS Code
-- Structured SQL (CTEs, JOINs, Aggregations, Filtering)
-- Analytical querying techniques for labor market intelligence
 
----
 
-# 📈 Project Outcome
-
-This project demonstrates:
-
-- Advanced SQL querying
-- Multi-table joins with dimensional modeling logic
-- CTE usage for layered analysis
-- Market intelligence extraction from structured data
-- Insight-driven analytical storytelling
 
 ---
